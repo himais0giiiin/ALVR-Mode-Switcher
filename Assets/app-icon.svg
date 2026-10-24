@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(1,0,0,1,0,-7.036316)">
+        <path d="M752,64C866.798,64 960,157.202 960,272L960,752C960,866.798 866.798,960 752,960L272,960C157.202,960 64,866.798 64,752L64,272C64,157.202 157.202,64 272,64L752,64Z" style="fill:rgb(139,162,212);"/>
+    </g>
+    <g transform="matrix(0.900774,0,0,1,50.803723,0)">
+        <path d="M658.002,307C730.302,307 789,359.874 789,425L789,537C789,602.126 730.302,655 658.002,655L365.998,655C293.698,655 235,602.126 235,537L235,425C235,359.874 293.698,307 365.998,307L658.002,307Z" style="fill:none;stroke:white;stroke-width:66px;"/>
+    </g>
+    <g transform="matrix(1,0,0,0.881853,0,78.265888)">
+        <path d="M365,655L432,722L592,722L659,655" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:66px;stroke-linecap:round;stroke-linejoin:round;"/>
+    </g>
+    <path d="M348,481L491,481M491,481L584,407L686,407M491,481L584,555L686,555" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:42px;stroke-linecap:round;stroke-linejoin:round;"/>
+    <circle cx="348" cy="481" r="24" style="fill:white;"/>
+</svg>
